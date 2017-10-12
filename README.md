@@ -1,3 +1,3 @@
 # INF-PT1
 
-TD d'Info de la classe de PT1
+Les TDs d'info de la classe de PT1 version Moi
