@@ -9,6 +9,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from classes import Point
 
+
 nitronEngine = create_engine('sqlite:///Databases/nitron.db')
 nitron.Base.metadata.bind = nitronEngine
 
@@ -33,6 +34,11 @@ class NitronGeometry:
         self._B
         self._K
         self._A
+
+    @property
+    def BD(self):
+        (self._B - self._D).vectorize().mod()
+
 
 
 class Nitron:

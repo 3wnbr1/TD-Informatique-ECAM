@@ -38,8 +38,8 @@ class Vector:
         self._y = y
         self._z = z
 
-    def mod(self):
-        return (self._x**2+self._y**2+self._z**2)**1/2
+    def norm(self):
+        return (self._x**2+self._y**2+self._z**2)**(1/2)
 
     def dot_product(self, vector):
         assert isinstance(vector, Vector), "NOT A VECTOR"
@@ -103,4 +103,3 @@ class Torsor:
 
 if __name__ == '__main__':
     vector = Vector(1, 2, 3)
-    pdb.set_trace()
