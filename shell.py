@@ -4,7 +4,7 @@
 import random
 
 
-listeNonTriee = [random.randint(0, 1000) for i in range(10000)]
+listeNonTriee = [random.randint(0, 1000) for i in range(2099)]
 
 
 gaps = [1, 2, 4, 7, 10, 23, 57, 132, 301, 701]
@@ -41,9 +41,10 @@ def shell(lst):
     gap = gapSelection(n)
     while gap != 0:
         for i in range(gap):
+            print(gap)
             lst[i::gap] = triParInsertion(lst[i::gap])
         n -= gap
         if n < 0:
             break
         gap = gapSelection(n)
-    return lst
+    return triParInsertion(lst)
