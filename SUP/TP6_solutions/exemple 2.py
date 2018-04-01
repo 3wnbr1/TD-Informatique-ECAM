@@ -1,0 +1,10 @@
+import matplotlib.pyplot as plt
+plt.close()
+plt.plot([1,2,3,4,5,6], [1,4,9,16,25,36],ls=":",c="r",marker="o",ms=10, mfc="r",mec="b",mew=1)
+plt.axis([0,7,0,40])
+plt.grid()
+plt.title("Premiers carrés", fontsize = 20, color = "g") 
+plt.xlabel(r"$n$", fontsize = 20, color = "g") 
+plt.ylabel(r"$n^2$", fontsize = 20, color = "g") 
+plt.text(5,20,"Courbe n°1", color = "r", fontsize = 15)
+plt.show()

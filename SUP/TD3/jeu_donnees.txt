@@ -1,0 +1,200 @@
+Bienvenue au jeu des capitales.
+Abkhazie;Soukhoumi
+Afghanistan;Kaboul
+Afrique du Sud;Pretoria
+Albanie;Tirana
+Algerie ;Alger
+Allemagne;Berlin
+Andorre;Andorre-la-Vieille
+Angola;Luanda
+Antigua-et-Barbuda;Saint John's
+Arabie saoudite;Riyad
+Argentine;Buenos Aires
+Armenie;Erevan
+Australie;Canberra
+Autriche;Vienne
+Azerbaidjan;Bakou
+Bahamas;Nassau
+Bahrein;Manama
+Bangladesh;Dacca
+Barbade;Bridgetown
+Belgique;Bruxelles
+Belize;Belmopan
+Benin;Porto-Novo
+Bhoutan;Thimphou
+Bielorussie;Minsk
+Birmanie;Rangoun
+Bolivie;Sucre
+Bosnie-Herzegovine;Sarajevo
+Botswana;Gaborone
+Bresil;Brasilia
+Brunei;Bandar Seri Begawan
+Bulgarie;Sofia
+Burkina Faso;Ouagadougou
+Burundi;Bujumbura
+Cambodge;Phnom Penh
+Cameroun;Yaounde
+Canada;Ottawa
+Cap-Vert;Praia
+Chili;Santiago
+Chine;Pekin
+Chypre;Nicosie
+Colombie ;Bogota
+Comores;Moroni
+Congo;Brazzaville
+Coree du Nord;Pyongyang
+Coree du Sud;Seoul
+Costa Rica;San Jose
+Cote d'Ivoire;Yamoussoukro
+Croatie;Zagreb
+Cuba;La Havane
+Danemark;Copenhague
+Djibouti;Djibouti
+Dominique;Roseau
+egypte;Le Caire
+emirats arabes unis ;Abou Dhabi
+equateur;Quito
+erythree;Asmara
+Espagne;Madrid
+Estonie;Tallinn
+etats-Unis;Washington
+ethiopie;Addis Abeba
+Fidji;Suva
+Finlande;Helsinki
+France;Paris
+Gabon;Libreville
+Gambie;Banjul
+Georgie;Tbilissi
+Ghana ;Accra
+Grece;Athenes
+Grenade;Saint Georges
+Guatemala;Guatemala
+Guinee;Conakry
+Guinee equatoriale;Malabo
+Guinee-Bissau;Bissau
+Guyana;Georgetown
+Haiti;Port-au-Prince
+Haut-Karabagh;Stepanakert
+Honduras;Tegucigalpa
+Hongrie;Budapest
+Inde;New Delhi
+Indonesie;Jakarta
+Irak;Bagdad
+Iran;Teheran
+Irlande;Dublin
+Islande;Reykjavik
+Israel;Jerusalem
+Italie;Rome
+Jamaique;Kingston
+Japon;Tokyo
+Jordanie ;Amman
+Kazakhstan;Astana
+Kenya;Nairobi
+Kirghizistan;Bichkek
+Kiribati;Tarawa
+Kosovo;Pristina
+Koweit;Koweit
+Laos;Vientiane
+Lesotho;Maseru
+Lettonie;Riga
+Liban;Beyrouth
+Liberia;Monrovia
+Libye;Tripoli
+Liechtenstein;Vaduz
+Lituanie;Vilnius
+Luxembourg;Luxembourg
+Macedoine;Skopje
+Madagascar;Antananarivo
+Malaisie;Kuala Lumpur
+Malawi;Lilongwe
+Maldives;Male
+Mali;Bamako
+Malte;La Valette
+Maroc;Rabat
+Marshall;Delap-Uliga-Darrit
+Maurice;Port-Louis
+Mauritanie;Nouakchott
+Mexique;Mexico
+Micronesie;Palikir
+Moldavie;Chisinau
+Monaco;Monaco
+Mongolie;Oulan Bator
+Montenegro;Podgorica
+Mozambique;Maputo
+Namibie;Windhoek
+Nauru;Yaren
+Nepal;Katmandou
+Nicaragua;Managua
+Niger;Niamey
+Nigeria;Abuja
+Norvege;Oslo
+Nouvelle-Zelande;Wellington
+Oman;Mascate
+Ossetie du Sud;Tskhinval
+Ouganda;Kampala
+Ouzbekistan;Tachkent
+Pakistan;Islamabad
+Palaos;Koror
+Palestine;Jerusalem
+Panama;Panama
+Papouasie-Nouvelle-Guinee;Port Moresby
+Paraguay;Asuncion
+Pays-Bas;Amsterdam
+Perou;Lima
+Philippines;Manille
+Pologne;Varsovie
+Portugal;Lisbonne
+Qatar;Doha
+Republique centrafricaine;Bangui
+Republique democratique du Congo;Kinshasa
+Republique dominicaine;Saint-Domingue
+Republique tcheque;Prague
+Roumanie;Bucarest
+Royaume-Uni;Londres
+Russie;Moscou
+Rwanda;Kigali
+Saint-Christophe-et-Nieves;Basseterre
+Sainte-Lucie;Castries
+Saint-Marin;Saint-Marin
+Saint-Vincent-et-les Grenadines;Kingstown
+Salomon;Honiara
+Salvador;San Salvador
+Samoa;Apia
+Sao Tome-et-Principe;Sao Tome
+Senegal;Dakar
+Serbie ;Belgrade
+Seychelles;Victoria
+Sierra Leone;Freetown
+Singapour;Singapour
+Slovaquie;Bratislava
+Slovenie;Ljubljana
+Somalie;Mogadiscio
+Soudan;Khartoum
+Sri Lanka;Colombo
+Suede;Stockholm
+Suisse;Berne
+Suriname;Paramaribo
+Swaziland;Mbabane
+Syrie;Damas
+Tadjikistan;Douchanbe
+Taiwan;Taipei
+Tanzanie;Dodoma
+Tchad;Ndjamena
+Thailande;Bangkok
+Tibet;Lhassa
+Timor oriental;Dili
+Togo;Lome
+Tonga;Nuku'alofa
+Trinite-et-Tobago;Port of Spain
+Tunisie;Tunis
+Turkmenistan;Achgabat
+Turquie;Ankara
+Tuvalu;Vaiaku
+Ukraine;Kiev
+Uruguay;Montevideo
+Vanuatu;Port-Vila
+Venezuela;Caracas
+Viet Nam;Hanoi
+Yemen;Sanaa
+Zambie;Lusaka
+Zimbabwe;Harare

@@ -1,3 +1,4 @@
-# INF-PT1
+# TDs INFORMATIQUE ECAM
 
-Les TDs d'info de la classe de PT1 version Moi
+- Année Sup 1
+- Année Spé 1
