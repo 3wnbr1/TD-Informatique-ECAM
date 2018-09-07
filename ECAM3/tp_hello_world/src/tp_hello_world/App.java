@@ -4,7 +4,8 @@ public class App {
 
 	public static void main(String[] args) {
 		
-		System.out.println("I HAIT JAVA");
+		Personne person = new Personne();
+		person.hello();
 		
 	}
 
